@@ -1,9 +1,47 @@
+body {
+	background:#CCCCCC;
 
+}
 
+#banner {
+	width:70%;
 
+}
 
-#cor01{
-	font-color:#006400;
+.principal {
+	background:#CCCCCC;
+
+}
+
+.itens {
+	font-style: italic;
+	font-size: 30px;
+}
+p {
+	font-size: 30px;
+	text-align: center;
+}
+
+em strong {
+	color: #F08080;
+}
+
+#romarepública {
+	color: #4B0082;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: center;
+	width: 50%;
+}
+
+#roma {
+	width: 40%;
+}
+
+#item {
+	font-size: 30px;
 }
 
 																																																																																																																																																					
